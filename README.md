@@ -1,2 +1,3 @@
 # student-score-predictor
-this code predicts the score by analysing the study hours
+This project predicts student marks based on study hours using Machine Learning.
+Built using Python, Pandas, and Scikit-learn.
